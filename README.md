@@ -51,4 +51,4 @@ GitHub: [David-L-Santos](https://github.com/David-L-Santos)
 
 ## 🙏 Créditos
 
-Projeto desenvolvido a partir das aulas e orientações do **professor Nelio Alves, da Educando Web**.
+Projeto desenvolvido a partir das aulas e orientações do **professor Nelio Alves, da Udemy**.
