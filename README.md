@@ -25,9 +25,9 @@ Organizar o cadastro de produtos e acompanhar a movimentação do estoque, inclu
 
 ## 📷 Visualização
 
-![Gráfico de movimentação do estoque](imagens/grafico-movimentacao.png)
+![Gráfico de movimentação do estoque](grafico-movimentacao.png)
 
-▶️ [Assista à demonstração do projeto](video/demonstracao.mp4)
+▶️ [Assista à demonstração do projeto](demonstracao.mp4)
 
 ## 🚀 Como utilizar
 
