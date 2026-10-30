@@ -2,7 +2,7 @@
 
 Projeto de controle de estoque desenvolvido no **Microsoft Excel**, como parte dos meus estudos e da minha evolução na área de **Análise de Dados**.
 
-O projeto foi realizado acompanhando as aulas e orientações do **professor Nelio Alves, da Educando Web**, e me permitiu colocar em prática diferentes recursos do Excel em uma solução integrada.
+O projeto foi realizado acompanhando as aulas e orientações do **professor Nelio Alves, da Udemy**, e me permitiu colocar em prática diferentes recursos do Excel em uma solução integrada.
 
 ## 🎯 Objetivo
 
